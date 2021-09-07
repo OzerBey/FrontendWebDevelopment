@@ -4,7 +4,7 @@ This repository contains front end web development patika studies
 **Html**
 - Homework1: [First Webiste](https://github.com/OzerBey/FrontendWebDevelopment/tree/master/html%20works/homework1)
 - Homework2: [Website +](https://github.com/OzerBey/FrontendWebDevelopment/tree/master/html%20works/homework2)
-- Homework3: [Specification](https://github.com/OzerBey/FrontendWebDevelopment/tree/master/html%20works/homework3)
+- Homework3: [Recipe](https://github.com/OzerBey/FrontendWebDevelopment/tree/master/html%20works/homework3)
 
 
 **Css**
