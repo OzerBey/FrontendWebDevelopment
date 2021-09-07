@@ -1,0 +1,55 @@
+/*center{
+    background: #f1dabfff;
+    /*font-family: monospace;/*monospace, cursive,fantasy,sans-serif
+}*/
+
+.nav-table{
+    color: black;
+    font-family: Cursive ;
+    background: #f1dabfff;
+}
+.product-table {
+    border-spacing: 30px;
+  }
+.nav-table a{
+    margin-left: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: black;
+    color: black;
+    font-size: large;
+    text-decoration:transparent;
+}
+a:hover{
+    font-weight: bolder;
+}
+img{
+    border-radius: 10px;
+}
+footer{
+    background: #f1dabfff;
+}
+.content{
+    color: black;
+    font-family: Cursive ;
+    background: #f1dabfff;
+}
+
+td{
+    text-align: center;
+    font-size: 23px;
+    font-family:cursive;
+}
+p{
+    font-family: sans-serif;
+}
+.p_img {
+    width: 250px;
+    height: 250px;
+  }
+#title-nav,#title-homepage,#title-varieties{
+    background: #f1dabfff;
+}
+
+#page-title{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
