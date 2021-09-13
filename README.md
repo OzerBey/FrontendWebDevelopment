@@ -9,3 +9,4 @@ This repository contains front end web development patika studies
 
 **Css**
  - Homework1: [basic- website](https://ozerbey.github.io/basic-website/)
+ - Homework2: [Google web page](https://ozerbey.github.io/google.co.uk/)
