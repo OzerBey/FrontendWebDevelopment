@@ -1,0 +1,13 @@
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.avatar-box {
+  text-align: center;
+}
